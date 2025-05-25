@@ -1,0 +1,21 @@
+{
+  "author": "Antony Frolov",
+  "authorUsername": "lovanto",
+  "version": "1",
+  "name": "Gruvbox Light",
+  "appearance": "light",
+  "colors": {
+    "background": "#FBF1C7",
+    "backgroundSecondary": "#FBF1C7",
+    "text": "#3C3836",
+    "selection": "#7C6F64",
+    "loader": "#7C6F64",
+    "red": "#CC241D",
+    "orange": "#D65D0E",
+    "yellow": "#D79921",
+    "green": "#98971A",
+    "blue": "#458588",
+    "purple": "#B16286",
+    "magenta": "#F84EBD"
+  }
+}
